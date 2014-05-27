@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "lan_v3_mean_test", "lan_v3_mean_test\lan_v3_mean_test.cproj", "{82E99EC0-23A2-48E9-AA2A-7AEA794AD4FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E99EC0-23A2-48E9-AA2A-7AEA794AD4FA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{82E99EC0-23A2-48E9-AA2A-7AEA794AD4FA}.Debug|AVR.Build.0 = Debug|AVR
+		{82E99EC0-23A2-48E9-AA2A-7AEA794AD4FA}.Release|AVR.ActiveCfg = Release|AVR
+		{82E99EC0-23A2-48E9-AA2A-7AEA794AD4FA}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
